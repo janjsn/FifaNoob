@@ -96,7 +96,7 @@ public class ScoreBoard {
 				}
 			}
 		}
-		stats.points = 3*stats.points+stats.draws;
+		stats.points = 3*stats.wins+stats.draws;
 		stats.matchesPlayed = stats.wins + stats.draws + stats.losses;
 		stats.avgPoints = stats.points/(stats.matchesPlayed*1.0);
 		
