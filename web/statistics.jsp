@@ -49,7 +49,7 @@ if (match.getHomePlayer() != null && match.getAwayPlayer() != null) {
 <br/>
 <br/>
 
-<table width="2000" border="0">
+<table>
 <td>
 <td style = width:400px> 
 <table border="1">
@@ -151,7 +151,7 @@ if (match.getHomePlayer() != null && match.getAwayPlayer() != null) {
 <td style = width:100px>
 </td>
 <td>
-<td style = width:300px>
+<td style = width:200px>
 <p>yobro</p>
 </td>
 </table>
