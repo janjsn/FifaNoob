@@ -48,9 +48,10 @@ if (match.getHomePlayer() != null && match.getAwayPlayer() != null) {
 </form>
 <br/>
 <br/>
-<table width="5000" border="0">
-<tr>
-<td style = width:1000px> 
+
+<table width="2000" border="0">
+<td>
+<td style = width:400px> 
 <table border="1">
     <tr>
         <th>
@@ -145,12 +146,12 @@ if (match.getHomePlayer() != null && match.getAwayPlayer() != null) {
 <br/>
 <br/>
 </table>
-</tr>
-<tr>
+</td>
+<td>
 <td style = width:100px>
-</tr>
-<tr>
+</td>
+<td>
 <td style = width:300px>
 <p>yobro</p>
-</tr>
+</td>
 </table>
