@@ -49,9 +49,7 @@ if (match.getHomePlayer() != null && match.getAwayPlayer() != null) {
 <br/>
 <br/>
 
-<table>
-<td>
-<td style = width:400px> 
+<div style="float:left; width:50%;">
 <table border="1">
     <tr>
         <th>
@@ -142,16 +140,12 @@ if (match.getHomePlayer() != null && match.getAwayPlayer() != null) {
     }
     %>
 </table>
+</table>
+</div>
 
 <br/>
 <br/>
-</table>
-</td>
-<td>
-<td style = width:100px>
-</td>
-<td>
-<td style = width:200px>
-<p>yobro</p>
-</td>
-</table>
+<div style="float:left; width:50%;">
+Right  <!-- Set Div As your requirement -->
+</div>
+
